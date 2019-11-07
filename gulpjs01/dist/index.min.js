@@ -1,0 +1,1 @@
+function add(n,o){return console.log(n+o),n+o}

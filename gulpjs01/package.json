@@ -1,0 +1,23 @@
+{
+  "name": "gulpjs01",
+  "version": "1.0.0",
+  "description": "```\r npm install gulp-cli -g\r npm install gulp -D\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2",
+    "install": "^0.13.0",
+    "npm": "^6.13.0"
+  }
+}
